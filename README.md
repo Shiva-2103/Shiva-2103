@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang and DevOps Practices**
 
-- 👨‍💻 ## PORTFOLIO [https://shiva-devfolio.netlify.app/](https://shiva-devfolio.netlify.app/)
+- 👨‍💻 **PORTFOLIO** [https://shiva-devfolio.netlify.app/](https://shiva-devfolio.netlify.app/)
 
 - 📫 How to reach me **shivapalani2004@gmail.com**
 
