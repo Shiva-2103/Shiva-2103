@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Shiva-2103/Shiva-2103/main/banner.png"></p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Shiva Shanmugam </h1>
 
@@ -7,48 +7,27 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BShiva-2103%7D/count.svg" alt="visitor badge"/></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-2103&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Shiva-2103&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Shiva-2103&theme=chartreuse-dark"></p>
+
+
 ---
 
 ## 🌟 Projects
 
 ### 🚀 [GO URL Shortener](https://github.com/Shiva-2103/GO_URL_SHORTENER.git)
-- **Tech Stack**: Golang, Redis, Docker Compose, Fiber Framework.
-- **Highlights**:
-  - Shorten long URLs with unique identifiers.
-  - High performance with Golang and Fiber framework.
-  - Fully containerized for easy deployment with Docker.
-  - Scalable backend with Redis for efficient storage.
   
 ### 📝 [Promptopia](https://github.com/shivafsd7/Promptopia_Next.git)
-- **Tech Stack**: Next.js, MongoDB, GCP.
-- **Highlights**:
-  - Create and share prompts seamlessly.
-  - Robust user authentication and profile management.
-  - Smooth handling of dynamic content with MongoDB.
+
 
 ### 💻 [Yoom - Zoom Clone](https://github.com/Shiva-2103/Zoom-clone.git)
-- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Clerk.
-- **Highlights**:
-  - Secure authentication via Google, LinkedIn, and GitHub.
-  - High-quality video/audio streaming and meeting management.
-
-### 🎥 [YouTube Clone](https://github.com/Shiva-2103/YouTube-Clone.git)
-- **Tech Stack**: React.js, Material UI, Rapid API.
-- **Highlights**:
-  - Mimics YouTube’s user experience.
-  - Streamlined search and content discovery.
-
-### 🌐 [Chips - Animated Website](https://github.com/Shiva-2103/CHIPS.git)
-- **Tech Stack**: HTML, CSS, JavaScript.
-- **Highlights**:
-  - Responsive design optimized for all devices.
-  - Animated carousels with smooth transitions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Golang, Python, JavaScript, HTML, CSS.
+- **Languages**: Golang, Python, JavaScript.
 - **Frameworks**: React.js, Next.js, Fiber, Tailwind CSS.
 - **Tools**: Docker, Kubernetes, Jenkins, Postman, Git.
 - **Databases**: MongoDB, MySQL, Redis.
