@@ -1,17 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Shiva Shanmugam </h1>
 
-<p align="center">I'm a Full Stack Developer and Cloud Enthusiast with a passion for building scalable and efficient web applications. My journey in tech is driven by curiosity, continuous learning, and a love for problem-solving.</p>
+<p align="center">I'm a Full Stack Developer and Cloud Enthusiast with a passion for building scalable and efficient web applications. My journey in tech is driven by curiosity, continuous learning, and a love for problem-solving.</p>      
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BShiva-2103%7D/count.svg" alt="visitor badge"/></p>
+### Here's my GitHub stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-2103&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Shiva-2103&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Shiva-2103&theme=chartreuse-dark"></p>
+![Shiva-2103 GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva-2103&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiva-2103&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shiva-2103&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
 
----
----
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +28,26 @@
 - [Fundamentals of DevOps (Guvi)](https://www.guvi.in/share-certificate/11y55a87VU13nsg114)
 
 ---
+
+<a href="https://github.com/Shiva-2103/GO_URL_SHORTENER.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+</a>  
+
+<a href="https://github.com/Shiva-2103/Promptopia_Next.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
+</a>  
+
+<a href="https://github.com/Shiva-2103/GO_POSTGRES">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Web&theme=onedark" />
+</a>  
+
+<a href="https://github.com/Shiva-2103/Zoom-Clone">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=onedark" />
+</a>  
 
 ## 🌐 Connect with Me
 
