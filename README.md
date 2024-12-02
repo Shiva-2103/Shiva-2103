@@ -13,16 +13,6 @@
 
 
 ---
-
-## 🌟 Projects
-
-### 🚀 [GO URL Shortener](https://github.com/Shiva-2103/GO_URL_SHORTENER.git)
-  
-### 📝 [Promptopia](https://github.com/shivafsd7/Promptopia_Next.git)
-
-
-### 💻 [Yoom - Zoom Clone](https://github.com/Shiva-2103/Zoom-clone.git)
-
 ---
 
 ## 🛠️ Tech Stack
