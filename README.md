@@ -1,23 +1,75 @@
-<h1 align="center">Hi 👋, I'm Shiva Shanmugam</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/Shiva-2103/Shiva-2103/main/banner.png"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-2103&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-2103" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Shiva Shanmugam </h1>
 
-- 🌱 I’m currently learning **Golang and DevOps Practices**
+<p align="center">I'm a Full Stack Developer and Cloud Enthusiast with a passion for building scalable and efficient web applications. My journey in tech is driven by curiosity, continuous learning, and a love for problem-solving.</p>
 
-- 👨‍💻 **PORTFOLIO** [https://shiva-devfolio.netlify.app/](https://shiva-devfolio.netlify.app/)
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BShiva-2103%7D/count.svg" alt="visitor badge"/></p>
 
-- 📫 How to reach me **shivapalani2004@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivashanmugam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivashanmugam3" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_byshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_byshiv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shiva_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiva_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shiva_shanmugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiva_shanmugam" height="30" width="40" /></a>
+## 🌟 Projects
+
+### 🚀 [GO URL Shortener](https://github.com/Shiva-2103/GO_URL_SHORTENER.git)
+- **Tech Stack**: Golang, Redis, Docker Compose, Fiber Framework.
+- **Highlights**:
+  - Shorten long URLs with unique identifiers.
+  - High performance with Golang and Fiber framework.
+  - Fully containerized for easy deployment with Docker.
+  - Scalable backend with Redis for efficient storage.
+  
+### 📝 [Promptopia](https://github.com/shivafsd7/Promptopia_Next.git)
+- **Tech Stack**: Next.js, MongoDB, GCP.
+- **Highlights**:
+  - Create and share prompts seamlessly.
+  - Robust user authentication and profile management.
+  - Smooth handling of dynamic content with MongoDB.
+
+### 💻 [Yoom - Zoom Clone](https://github.com/Shiva-2103/Zoom-clone.git)
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Clerk.
+- **Highlights**:
+  - Secure authentication via Google, LinkedIn, and GitHub.
+  - High-quality video/audio streaming and meeting management.
+
+### 🎥 [YouTube Clone](https://github.com/Shiva-2103/YouTube-Clone.git)
+- **Tech Stack**: React.js, Material UI, Rapid API.
+- **Highlights**:
+  - Mimics YouTube’s user experience.
+  - Streamlined search and content discovery.
+
+### 🌐 [Chips - Animated Website](https://github.com/Shiva-2103/CHIPS.git)
+- **Tech Stack**: HTML, CSS, JavaScript.
+- **Highlights**:
+  - Responsive design optimized for all devices.
+  - Animated carousels with smooth transitions.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Golang, Python, JavaScript, HTML, CSS.
+- **Frameworks**: React.js, Next.js, Fiber, Tailwind CSS.
+- **Tools**: Docker, Kubernetes, Jenkins, Postman, Git.
+- **Databases**: MongoDB, MySQL, Redis.
+- **Platforms**: AWS, Linux, Windows.
+
+---
+
+## 🏆 Certifications
+
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/ed46ffff-de2c-472a-b77a-99e4f31679ba/public_url)
+- [Essentials of Cloud Practitioner](https://www.credly.com/badges/d6e69981-fdc0-478d-82e6-73f02a63197c)
+- [Web Development Bootcamp (Udemy)](https://drive.google.com/file/d/1x-eXMFlXP8u86xRYy1I0eEm6CEs_vFlL/view?usp=sharing)
+- [Fundamentals of DevOps (Guvi)](https://www.guvi.in/share-certificate/11y55a87VU13nsg114)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linktr.ee/shiva_shanmugam21"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shiva-shanmugam"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shivapalani2004@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Shiva-2103"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-2103&" alt="shiva-2103" /></p>
