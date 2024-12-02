@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Shiva Shanmugam </h1>
 
 <p align="center">I'm a Full Stack Developer and Cloud Enthusiast with a passion for building scalable and efficient web applications. My journey in tech is driven by curiosity, continuous learning, and a love for problem-solving.</p>
