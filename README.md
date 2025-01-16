@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Shiva Shanmugam </h1>
 
-<p align="center">I'm a Full Stack Developer and Cloud Enthusiast with a Passion for building scalable and efficient web applications. My journey in tech is driven by curiosity, continuous learning, and a love for problem-solving.</p>      
+<p align="center">Web developer turned DevOps enthusiast with a keen interest in AWS. I thrive on solving problems, building impactful solutions and fostering growth.</p>      
 
 ### Here's my GitHub stats:
 
@@ -13,11 +13,13 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Golang, Python, JavaScript.
-- **Frameworks**: React.js, Next.js, Fiber, Tailwind CSS.
-- **Tools**: Docker, Kubernetes, Jenkins, Postman, Git.
-- **Databases**: MongoDB, MySQL, Redis.
-- **Platforms**: AWS, Linux, Windows.
-
+- **Cloud Technologies**: AWS, Azure DevOps, AWS EC2, Lambda, DynamoDB, IAM, Route 53, VPC.
+- **Infrastructure as Code**: Terraform
+- **Version Control**: Azure Repos, GitHub, Git
+- **CI/CD**: GitLab, Jenkins, Azure Pipelines
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **Security**: SonarQube, Trivy
+- **Monitoring**: Prometheus, Grafana, ELK Stack
 ---
 
 ## 🏆 Certifications
