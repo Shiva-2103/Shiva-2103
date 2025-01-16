@@ -31,10 +31,6 @@
 
 ---
 
-<a href="https://gitlab.com/Shiva-2103/Boardgame.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiva-2103&repo=Boardgame&theme=onedark" />
-</a>  
 
 <a href="https://github.com/Shiva-2103/GO_URL_SHORTENER.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
