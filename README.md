@@ -34,20 +34,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiva-2103&repo=GO_URL_SHORTENER&theme=onedark" />
 </a>  
 
-<a href="https://github.com/Shiva-2103/Promptopia_Next.git">
+<a href="https://github.com/Shiva-2103/Terraform_Azure-DevOps.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiva-2103&repo=Promptopia_Next&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiva-2103&repo=Terraform_Azure-DevOps&theme=onedark" />
 </a>  
+
 
 <a href="https://github.com/Shiva-2103/GO_POSTGRES.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiva-2103&repo=GO_POSTGRES&theme=onedark" />
 </a>  
 
-<a href="https://github.com/Shiva-2103/Zoom-Clone.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shiva-2103&repo=Zoom-Clone&theme=onedark" />
-</a>  
+
 
 ## 🌐 Connect with Me
 
