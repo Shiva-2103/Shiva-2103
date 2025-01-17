@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Shiva Shanmugam </h1>
 
-<p align="center">Web developer turned DevOps enthusiast with a keen interest in AWS. I thrive on solving problems, building impactful solutions and fostering growth.</p>      
+<p align="center">Web developer turned DevOps enthusiast with a keen interest in AWS. I thrive on solving problems, building impactful solutions, and fostering growth.</p>      
 
 ### Here's my GitHub stats:
 
